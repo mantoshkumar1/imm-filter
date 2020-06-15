@@ -34,8 +34,8 @@ This section details how to install dependencies of the project.
 - Download the 3.3.7 release from http://eigen.tuxfamily.org/
 - Unpack the downloaded zip or tar.gz file to *PC\Documents\libraries* directory. You need to store the unpacked directory in your system.
 - Rename the unpacked directory as **eigen3**. Note the path of this directory.
-- Add the path of *eigen3* directory into  *Include Directories* and *Library Directories* 
- (Click *Project -> ekf Properties -> VC++ Directories*)
+- Add the path of *eigen3* directory into  **Include Directories** and **Library Directories** 
+ (Click *Project -> Properties -> VC++ Directories*)
 
 #### [6.2. How to install GTest](#project-install-gtest)
 In Visual Studio 2017 and later, Google Test is integrated into the Visual Studio IDE as a
