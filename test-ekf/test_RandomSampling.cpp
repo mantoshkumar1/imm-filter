@@ -4,7 +4,9 @@
 
 
 namespace testing {
-
+	/* Reference:
+		https://developer.ibm.com/technologies/systems/articles/au-googletestingframework/#list13
+	*/
 	class TestRandomSampling : public ::testing::Test {
 	public:
 		TestRandomSampling() {
