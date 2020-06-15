@@ -44,8 +44,9 @@ please visit this [link](https://docs.microsoft.com/en-us/visualstudio/test/how-
 
 #### [2.4] Visual Studio
 Version: Visual Studio 2019 (v142)
-Solution Platform: x86
-Projects Platform: Win32
+Configuration Manager:
+    Active Solution Platform: x86
+    Projects Platform: Win32
 
 ## [10. Notice for Ubuntu/MAC Users](#project-notice)
 This README does not detail the steps required for development setups in Ubuntu/MAC OS because it is almost similar.
